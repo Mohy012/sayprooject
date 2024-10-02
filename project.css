@@ -1,0 +1,214 @@
+body{
+    background: url(https://motanahy.com/wp-content/uploads/2022/10/187354.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+     
+}
+#a1{
+ display: inline-block;
+ position: absolute;
+ top: -4px;
+ left: 1400px;
+width: 8%;
+height: 10%;
+margin: 1%;
+left: 90%;
+border-radius: 15px;
+ position: fixed;
+}
+li{
+    display: inline;
+     float :right;
+     margin: 10%;
+    
+}
+a{
+    position: absolute;
+    color: rgb(171, 202, 0);
+     padding: 10px;
+   top: 70px;
+ text-decoration: none;
+  
+}
+a:hover{
+    color: red;
+}
+#s1{
+    position: absolute;
+    top: 600px;
+    left: 45%;
+    color:yellow;
+    font-size: 25px;
+}
+#f1{
+    position: absolute;
+   top: 2700px;
+   left: 50px;
+    
+   padding: 10px ;
+   border: 12px solid rgb(38, 198, 243);
+   
+}
+#f11{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    color: rgb(177, 224, 83);
+    font-size: 25px;
+}
+#f2{
+    position: absolute;
+   top: 2700px;
+   left: 500px;
+    
+   padding: 10px ;
+   border: 12px solid rgb(38, 198, 243);
+} 
+ #ff{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    color: rgb(102, 219, 63);
+    font-size: 25px;
+ }
+ #f3{
+    position: absolute;
+   top: 2700px;
+   left: 1000px;
+    
+   padding: 10px ;
+   border: 12px solid rgb(38, 198, 243);
+} 
+#f33{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    color: rgb(160, 220, 71);
+    font-size: 30px;
+ }
+ #v1{
+    position: absolute;
+    top: 1200px;
+    left: 500px;
+    padding: 10px ;
+   border: 12px solid rgb(38, 198, 243);
+ }
+ #f4{
+    position: absolute;
+   top: 2700px;
+   left: 50px;
+    
+   padding: 10px ;
+   border: 12px solid rgb(38, 198, 243);
+} 
+#f44{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    color: rgb(17, 139, 221);
+    font-size: 30px;
+ }
+ #i1{
+
+    position: absolute;
+    top: 1000px;
+     right: 150px;
+      
+ }
+    #n1{
+        position: absolute;
+        top: 1000px;
+         right: 285px;
+         
+    }
+     
+    #f0{
+        position: absolute;
+       top: 2000px;
+       left: 500px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(38, 198, 243);
+    } 
+    #f00{
+        position: absolute;
+        top: 510px;
+        left: 50px;
+        color: rgb(109, 206, 40);
+        font-size: 30px;
+     }
+     
+     #o0{
+        position: absolute;
+       top: 3500px;
+       left: 500px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(38, 198, 243);
+    } 
+    #o00{
+        position: absolute;
+        top: 650px;
+        left: 100px;
+        color: rgb(109, 206, 40);
+        font-size: 30px;
+     }
+     
+     #o1{
+        position: absolute;
+       top: 4300px;
+       left: 50px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(38, 198, 243);
+    } 
+    #o11{
+        position: absolute;
+        top: 450px;
+        left: 50px;
+        color: rgb(109, 206, 40);
+        font-size: 30px;
+     }
+     #o2{
+        position: absolute;
+       top: 4300px;
+       left: 570px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(38, 198, 243);
+    } 
+    #o22{
+        position: absolute;
+        top: 450px;
+        left: 50px;
+        color: rgb(109, 206, 40);
+        font-size: 30px;
+     }
+
+     #o3{
+        position: absolute;
+       top: 4300px;
+       left: 1050px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(38, 198, 243);
+    } 
+    #o33{
+        position: absolute;
+        top: 450px;
+        left: 50px;
+        color: rgb(109, 206, 40);
+        font-size: 30px;
+     }
+     #m1{
+        
+
+        position: absolute;
+       top: 4900px;
+        left: 50px;
+        
+       padding: 10px ;
+       border: 12px solid rgb(8, 8, 8);
+    } 
+     
